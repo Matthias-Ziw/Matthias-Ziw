@@ -53,6 +53,4 @@
 
 Stellen in **Prozessautomatisierung, KI-Integration oder Service/Aftersales mit Digitalisierungsfokus**: remote oder hybrid in der Region Würzburg, **ab Januar 2027**.
 
-<!-- LinkedIn-Link eintragen und die nächste Zeile einkommentieren:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthias_Ziwny-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DEIN-PROFIL/)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthias_Ziwny-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-ziwny/)
